@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/((?!downloads|assets|icons|favicon\\.ico|vite\\.svg).*)", "destination": "/" }
+  ]
+}
