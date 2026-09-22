@@ -565,6 +565,18 @@ function InPageAd({
 
 const appsData = [
   {
+    title: "Crowd Clash",
+    desc: "Игра от CodeAFM с привязкой аккаунта через Google и Apple. Поддержка и политика конфиденциальности доступны на сайте.",
+    tags: ["Game", "Yandex Ads", "Google", "Apple"],
+    icon: asset("icons/crowd-clash.jpg"),
+    screenshots: [],
+    accent: "blue",
+    status: "Game",
+    featured: true,
+    support: "/crowd-clash/support",
+    privacy: "/crowd-clash/privacy",
+  },
+  {
     title: "Sweet Candy Blast",
     desc: "Яркая match-3 игра с уровнями, бустерами, картой прогресса, анимациями, звуками, Firebase, пушами и рекламной монетизацией.",
     tags: ["Flutter", "Game", "Firebase", "Ads", "RuStore"],
@@ -1362,7 +1374,12 @@ function ProjectCard({
         </div>
 
         <div className="project-card__actions">
-          {app.download ? (
+          {app.support ? (
+            <>
+              <a className="button button--mini" href={app.support}>Поддержка</a>
+              <a className="button button--mini button--glass" href={app.privacy}>Конфиденциальность</a>
+            </>
+          ) : app.download ? (
             <a
               className="button button--mini"
               href={app.download}
