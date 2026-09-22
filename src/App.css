@@ -2538,3 +2538,14 @@ footer p {
     width: 100%;
   }
 }
+.footer nav[aria-label="Crowd Clash links"] {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px 24px;
+}
+
+.legal-container section a:not(.legal-button) {
+  color: #9fb4ff;
+  overflow-wrap: anywhere;
+}
