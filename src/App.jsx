@@ -1,6 +1,7 @@
 // App.jsx
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import "./App.css";
+import { CrowdClashPrivacy, CrowdClashSupport } from "./CrowdClash.jsx";
 
 /* ================= SETTINGS ================= */
 const TELEGRAM_URL = "https://t.me/fizbit00";
@@ -1854,6 +1855,11 @@ function Footer() {
         </span>
       </div>
 
+      <nav aria-label="Crowd Clash links">
+        <a href="/crowd-clash/privacy">Crowd Clash Privacy</a>
+        <a href="/crowd-clash/support">Crowd Clash Support</a>
+      </nav>
+
       <a
         href="#top"
         aria-label="Наверх"
@@ -1956,6 +1962,9 @@ export default function App() {
   ) {
     return <BottleSortSupport />;
   }
+
+  if (path === "/crowd-clash/privacy") return <CrowdClashPrivacy />;
+  if (path === "/crowd-clash/support") return <CrowdClashSupport />;
 
   return <PortfolioHome />;
 }
