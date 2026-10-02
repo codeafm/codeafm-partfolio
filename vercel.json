@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/((?!downloads|assets|icons|favicon\\.ico|vite\\.svg).*)", "destination": "/" }
+    { "source": "/((?!app-ads\\.txt$|downloads|assets|icons|favicon\\.ico|vite\\.svg).*)", "destination": "/" }
   ]
 }
