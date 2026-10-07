@@ -1,0 +1,207 @@
+/* Shared, scoped styling for application privacy and support pages. */
+.legal-page,
+.legal-page * {
+  box-sizing: border-box;
+}
+
+.legal-page {
+  min-height: 100vh;
+  padding: 48px 20px 80px;
+  color-scheme: light;
+  color: #252135;
+  background: radial-gradient(ellipse at 50% 0, #eee8ff 0, transparent 44%), #f8f7fb;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  overflow-wrap: break-word;
+}
+
+.legal-container {
+  width: 100%;
+  max-width: 840px;
+  margin: 0 auto;
+}
+
+.legal-page .back-link {
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 32px;
+  color: #6131d8;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.legal-page .back-link:hover,
+.legal-secondary-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.legal-page a:focus-visible {
+  outline: 3px solid #7142e8;
+  outline-offset: 5px;
+}
+
+.legal-header {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-bottom: 14px;
+}
+
+.legal-app-icon {
+  width: 74px;
+  height: 74px;
+  flex-shrink: 0;
+  object-fit: cover;
+  border-radius: 20px;
+  box-shadow: 0 12px 32px #39216e18;
+}
+
+.legal-header .eyebrow {
+  display: block;
+  margin: 0 0 5px;
+  color: #6131d8;
+  font-size: 14px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1.3px;
+}
+
+.legal-header .eyebrow::before {
+  display: none;
+}
+
+.legal-header h1 {
+  margin: 0;
+  color: #252135;
+  font-size: clamp(36px, 7vw, 56px);
+  font-weight: 750;
+  line-height: 1.04;
+  letter-spacing: -1.6px;
+}
+
+.legal-page .updated {
+  margin: 22px 0 38px;
+  color: #746c83;
+  font-size: 14px;
+}
+
+.legal-container section {
+  margin-bottom: 18px;
+  padding: 27px;
+  border: 1px solid #e8e2f1;
+  border-radius: 22px;
+  background: #ffffff;
+  box-shadow: 0 3px 12px #30145e03;
+}
+
+.legal-container section h2 {
+  margin: 0 0 14px;
+  color: #252135;
+  font-size: 21px;
+  line-height: 1.35;
+}
+
+.legal-container section h3 {
+  margin: 0 0 7px;
+  color: #252135;
+  font-size: 17px;
+  line-height: 1.4;
+}
+
+.legal-container section p,
+.legal-container section li {
+  color: #635b70;
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+.legal-container section p {
+  margin: 0 0 13px;
+}
+
+.legal-container section p:last-child {
+  margin-bottom: 0;
+}
+
+.legal-container section ul,
+.legal-container section ol {
+  margin: 12px 0 0;
+  padding-left: 22px;
+}
+
+.legal-container section li {
+  margin-bottom: 7px;
+}
+
+.legal-page .faq-item {
+  padding: 17px 0;
+  border-bottom: 1px solid #e8e2f1;
+}
+
+.legal-page .faq-item:first-of-type {
+  padding-top: 5px;
+}
+
+.legal-page .faq-item:last-child {
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.legal-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 50px;
+  margin-top: 7px;
+  padding: 12px 19px;
+  border-radius: 14px;
+  background: #6b35e8;
+  color: #ffffff;
+  font-weight: 800;
+  text-decoration: none;
+  transition: background 180ms ease, box-shadow 180ms ease;
+}
+
+.legal-button:hover {
+  background: #5724cf;
+  box-shadow: 0 6px 18px #6b35e82b;
+}
+
+.legal-secondary-link {
+  display: block;
+  width: fit-content;
+  margin-top: 17px;
+  color: #6131d8;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.legal-container section a:not(.legal-button) {
+  color: #6131d8;
+  overflow-wrap: anywhere;
+}
+
+.legal-footer {
+  padding: 28px 10px 5px;
+  color: #746c83;
+  text-align: center;
+  font-size: 13px;
+}
+
+@media (max-width: 600px) {
+  .legal-page { padding: 28px 15px 55px; }
+  .legal-page .back-link { margin-bottom: 25px; }
+  .legal-header { align-items: flex-start; gap: 14px; }
+  .legal-app-icon { width: 61px; height: 61px; border-radius: 17px; }
+  .legal-header h1 { font-size: 34px; letter-spacing: -0.8px; }
+  .legal-page .updated { margin: 19px 0 28px; }
+  .legal-container section { padding: 20px; border-radius: 18px; }
+  .legal-container section p,
+  .legal-container section li { font-size: 15px; }
+  .legal-button { width: 100%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .legal-page * { transition: none; }
+}

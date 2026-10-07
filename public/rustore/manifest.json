@@ -1,0 +1,765 @@
+{
+  "source": "https://www.rustore.ru/catalog/developer/c67e0343",
+  "updatedAt": "2026-10-07",
+  "apps": {
+    "com.codeafm.bottlesort": {
+      "id": "bottle-sort",
+      "packageName": "com.codeafm.bottlesort",
+      "title": "Сортировка воды — Bottle Sort",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.bottlesort",
+      "checkedAt": "2026-10-07T17:03:15.069Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2026/9/5/85/apk/2063719334/content/SCREENSHOT/ecd7b522-19e5-466f-a879-938030e08557.jpg",
+          "path": "/rustore/bottle-sort/1.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/5/10/apk/2063719334/content/SCREENSHOT/e0c16d28-9d8c-4511-bc3d-22000a2e4e29.jpg",
+          "path": "/rustore/bottle-sort/2.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/5/28/apk/2063719334/content/SCREENSHOT/c611935c-1ea5-42e4-ad1a-8f2c518d1da3.jpg",
+          "path": "/rustore/bottle-sort/3.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/5/1e/apk/2063719334/content/SCREENSHOT/1cb4a823-0f97-4aa2-b667-177057f31a42.jpg",
+          "path": "/rustore/bottle-sort/4.webp",
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2026/6/1/85/apk/2063719334/content/ICON/d2ce03e0-635b-42ed-a384-9cd0a9e12579.jpg",
+        "path": "/rustore/bottle-sort/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.codeafm.mergemarket": {
+      "id": "merge-market",
+      "packageName": "com.codeafm.mergemarket",
+      "title": "Merge Market – Магазин Мечты",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.mergemarket",
+      "checkedAt": "2026-10-07T17:03:50.869Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2026/5/24/75/apk/2063717101/content/SCREENSHOT/c8552641-b474-49b9-a070-1334cae5be6c.png",
+          "path": "/rustore/merge-market/1.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/5/24/1a/apk/2063717101/content/SCREENSHOT/056f030f-78f7-431a-93cd-2a6ae523b575.png",
+          "path": "/rustore/merge-market/2.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/5/24/a4/apk/2063717101/content/SCREENSHOT/e784c841-53e9-492b-bb11-329a80d7470b.png",
+          "path": "/rustore/merge-market/3.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/5/24/c1/apk/2063717101/content/SCREENSHOT/8d72b2f9-8e88-4e95-9ca9-7692f1c0e76a.png",
+          "path": "/rustore/merge-market/4.webp",
+          "width": 898,
+          "height": 1752
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2026/5/24/ae/apk/2063717101/content/ICON/93c09928-ac69-4614-9ad6-08d8672f7aba.png",
+        "path": "/rustore/merge-market/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.codeafm.lasttower": {
+      "id": "last-tower",
+      "packageName": "com.codeafm.lasttower",
+      "title": "Last tower - Последняя башня",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.lasttower",
+      "checkedAt": "2026-10-07",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2026/9/13/zz/apk/2063756926/content/SCREENSHOT/ba805c35-9021-4ed2-aaa6-b11e848844c8.png",
+          "path": "/rustore/last-tower/1.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/13/zz/apk/2063756926/content/SCREENSHOT/32b42586-be30-4963-8178-1cb4a5af7258.png",
+          "path": "/rustore/last-tower/2.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/13/zz/apk/2063756926/content/SCREENSHOT/b1db96b3-639a-4064-8078-835bdb4c44ac.png",
+          "path": "/rustore/last-tower/3.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/13/f4/apk/2063756926/content/SCREENSHOT/1d6bc17a-a311-4d26-90ec-36fff22d60d6.png",
+          "path": "/rustore/last-tower/4.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/13/92/apk/2063756926/content/SCREENSHOT/5f664d98-2652-45bc-abcc-ca8d446f7c46.png",
+          "path": "/rustore/last-tower/5.webp",
+          "width": 1672,
+          "height": 941
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2026/9/13/66/apk/2063756926/content/ICON/f90561c0-fdfe-46aa-b5e1-3b1edd35f2f8.png",
+        "path": "/rustore/last-tower/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.fizbit.taskgram": {
+      "id": "taskgram",
+      "packageName": "com.fizbit.taskgram",
+      "title": "Task Gram — Задания за деньги без вложений",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.fizbit.taskgram",
+      "checkedAt": "2026-10-07T17:05:33.777Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2026/9/26/fb/apk/2063646659/content/SCREENSHOT/842b3d6c-d2b6-47f9-b786-091715de3227.png",
+          "path": "/rustore/taskgram/1.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/26/f5/apk/2063646659/content/SCREENSHOT/d5b3f7bc-751f-48c5-b1df-d620bbc10687.png",
+          "path": "/rustore/taskgram/2.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/26/82/apk/2063646659/content/SCREENSHOT/2d102cdf-2aad-4158-83d5-b478caa7c1ae.png",
+          "path": "/rustore/taskgram/3.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/26/16/apk/2063646659/content/SCREENSHOT/feeac079-19e7-45a3-a1fb-073f7fce6a7e.png",
+          "path": "/rustore/taskgram/4.webp",
+          "width": 941,
+          "height": 1672
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2026/9/26/57/apk/2063646659/content/ICON/976ba619-d2a9-47d0-9e79-97b7ee738808.jpg",
+        "path": "/rustore/taskgram/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.codeafm.iqtest": {
+      "id": "iq-test",
+      "packageName": "com.codeafm.iqtest",
+      "title": "Тест на IQ и развитие мозга ( IQ Test )",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.iqtest",
+      "checkedAt": "2026-10-07T17:05:35.200Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2025/10/9/1a/apk/2063664025/content/SCREENSHOT/5b7d3070-1233-4750-b81e-de0215888dad.jpg",
+          "path": "/rustore/iq-test/1.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2025/10/9/cb/apk/2063664025/content/SCREENSHOT/de32a6b3-7161-4091-9d3f-a53345116ab7.jpg",
+          "path": "/rustore/iq-test/2.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2025/10/9/45/apk/2063664025/content/SCREENSHOT/cf099362-84f3-497b-a49e-6430522aedfb.jpg",
+          "path": "/rustore/iq-test/3.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2025/10/9/cb/apk/2063664025/content/SCREENSHOT/478f48a4-e22c-489d-9817-f0fd987b3299.jpg",
+          "path": "/rustore/iq-test/4.webp",
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2025/10/9/50/apk/2063664025/content/ICON/323346d0-d7df-484e-b02b-dd883e4700d4.jpg",
+        "path": "/rustore/iq-test/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.codeafm.bubblepop": {
+      "id": "bubble-pop",
+      "packageName": "com.codeafm.bubblepop",
+      "title": "Bubble Pop Original: Шарики",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.bubblepop",
+      "checkedAt": "2026-10-07T17:05:36.407Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2026/9/29/f5/apk/2063654745/content/SCREENSHOT/e80becdc-045f-46c8-a51b-852e6a11c6cf.png",
+          "path": "/rustore/bubble-pop/1.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/29/zz/apk/2063654745/content/SCREENSHOT/460ae207-612a-4f31-aae2-dd2db7131377.png",
+          "path": "/rustore/bubble-pop/2.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/29/0f/apk/2063654745/content/SCREENSHOT/512c6490-afb6-4f40-9b13-92d2f2be12f0.png",
+          "path": "/rustore/bubble-pop/3.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/29/ae/apk/2063654745/content/SCREENSHOT/3019a334-9cd9-4c92-80f6-e2c91c7e25a1.png",
+          "path": "/rustore/bubble-pop/4.webp",
+          "width": 940,
+          "height": 1672
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2026/9/29/30/apk/2063654745/content/ICON/248b9955-42ee-46fb-babf-9c0a3d203d48.jpg",
+        "path": "/rustore/bubble-pop/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.codeafm.sweetcandy": {
+      "id": "sweet-candy",
+      "packageName": "com.codeafm.sweetcandy",
+      "title": "Конфетный Взрыв: Три в Ряд",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.sweetcandy",
+      "checkedAt": "2026-10-07T17:05:40.510Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2026/9/28/25/apk/2063723325/content/SCREENSHOT/767108d1-3228-4880-80c6-f07d0cd86135.png",
+          "path": "/rustore/sweet-candy/1.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/28/22/apk/2063723325/content/SCREENSHOT/30a24404-b7d9-4446-b793-c3670ccae526.png",
+          "path": "/rustore/sweet-candy/2.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/28/3e/apk/2063723325/content/SCREENSHOT/4c8ce71d-d6c1-451b-b46d-54ded56066a9.png",
+          "path": "/rustore/sweet-candy/3.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/28/d2/apk/2063723325/content/SCREENSHOT/d145763f-f439-4e6c-bd28-0d90b2b61c0b.png",
+          "path": "/rustore/sweet-candy/4.webp",
+          "width": 941,
+          "height": 1672
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2026/6/15/50/apk/2063723325/content/ICON/2a12d6ef-7411-423b-a8f6-165c72736eb3.png",
+        "path": "/rustore/sweet-candy/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.codeafm.duraka": {
+      "id": "durak-36",
+      "packageName": "com.codeafm.duraka",
+      "title": "Карточная игра Дурак 36",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.duraka",
+      "checkedAt": "2026-10-07T17:05:41.962Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2026/4/6/ee/apk/2063704082/content/SCREENSHOT/d09bf70e-1b12-4a75-a9d8-2981703ab3a3.jpg",
+          "path": "/rustore/durak-36/1.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2026/4/6/67/apk/2063704082/content/SCREENSHOT/ebf30df3-35f3-48f4-af2f-8c6e5d91478d.jpg",
+          "path": "/rustore/durak-36/2.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2026/4/6/10/apk/2063704082/content/SCREENSHOT/bdb5bd1d-80a4-43ac-abba-1a17eb3a1890.jpg",
+          "path": "/rustore/durak-36/3.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2026/4/6/1f/apk/2063704082/content/SCREENSHOT/0c0ecb4b-7e60-42d9-a70f-114c04829480.jpg",
+          "path": "/rustore/durak-36/4.webp",
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2026/3/29/74/apk/2063704082/content/ICON/b64b19b5-d7e4-4f30-8c7a-e16d85b24359.jpg",
+        "path": "/rustore/durak-36/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.codeafm.blastyblocks": {
+      "id": "blasty-blocks",
+      "packageName": "com.codeafm.blastyblocks",
+      "title": "Блок-пазл – Три в ряд с блоками",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.blastyblocks",
+      "checkedAt": "2026-10-07T17:05:42.971Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2026/4/19/zz/apk/2063708308/content/SCREENSHOT/702ba3b7-f3de-4472-9fea-23a4f1283e8d.jpg",
+          "path": "/rustore/blasty-blocks/1.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2026/4/19/f9/apk/2063708308/content/SCREENSHOT/87ead797-3f07-45c3-9980-4704cf535e41.jpg",
+          "path": "/rustore/blasty-blocks/2.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2026/4/19/dc/apk/2063708308/content/SCREENSHOT/ac347314-027d-421d-b04b-279b4d578011.jpg",
+          "path": "/rustore/blasty-blocks/3.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2026/4/19/3f/apk/2063708308/content/SCREENSHOT/2e9667ca-f771-423c-8271-d0346a7fa545.jpg",
+          "path": "/rustore/blasty-blocks/4.webp",
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2026/4/19/35/apk/2063708308/content/ICON/0233baf3-18d2-4d38-a02c-30d4e357a017.png",
+        "path": "/rustore/blasty-blocks/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.codeafm.pandamahjong": {
+      "id": "panda-mahjong",
+      "packageName": "com.codeafm.pandamahjong",
+      "title": "Panda Mahjong | Панда Маджонг игра",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.pandamahjong",
+      "checkedAt": "2026-10-07T17:05:43.926Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2025/11/1/38/apk/2063668342/content/SCREENSHOT/9cde1317-817c-4da3-8c5b-d69aa173e58a.png",
+          "path": "/rustore/panda-mahjong/1.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2025/11/1/23/apk/2063668342/content/SCREENSHOT/aef9a133-67ff-4005-adee-f5da91bdf1f8.png",
+          "path": "/rustore/panda-mahjong/2.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2025/11/1/59/apk/2063668342/content/SCREENSHOT/72e53e22-b280-4f62-9587-334997835e9a.png",
+          "path": "/rustore/panda-mahjong/3.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2025/11/1/15/apk/2063668342/content/SCREENSHOT/9a1909e0-ed98-4cac-846e-d7b0cbe2b480.png",
+          "path": "/rustore/panda-mahjong/4.webp",
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2025/11/1/26/apk/2063668342/content/ICON/89554217-7d69-4ded-9987-913f5fec2478.png",
+        "path": "/rustore/panda-mahjong/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.codeafm.lastlighttrap": {
+      "id": "last-light",
+      "packageName": "com.codeafm.lastlighttrap",
+      "title": "Last Light: Побег из ловушек",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.lastlighttrap",
+      "checkedAt": "2026-10-07T17:05:46.045Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2026/5/13/2e/apk/2063714335/content/SCREENSHOT/c17a8b89-52b1-4fbc-a093-16ef128f22f4.jpg",
+          "path": "/rustore/last-light/1.webp",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "source": "https://static.rustore.ru/2026/5/13/91/apk/2063714335/content/SCREENSHOT/605c8b5e-0770-4771-8673-9850b37bfcca.png",
+          "path": "/rustore/last-light/2.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "source": "https://static.rustore.ru/2026/5/13/bb/apk/2063714335/content/SCREENSHOT/57e550e6-e624-491f-b401-a1388a8697d0.jpg",
+          "path": "/rustore/last-light/3.webp",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "source": "https://static.rustore.ru/2026/5/13/4e/apk/2063714335/content/SCREENSHOT/aa3c4ec2-9e37-460e-b636-89f2591b9b2b.png",
+          "path": "/rustore/last-light/4.webp",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2026/5/13/c3/apk/2063714335/content/ICON/05f37614-f893-4be1-88ce-1b51b3b3c8f1.jpg",
+        "path": "/rustore/last-light/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.PulseStudio.PULSESHIFT": {
+      "id": "pulse-shift",
+      "packageName": "com.PulseStudio.PULSESHIFT",
+      "title": "Pulse Shift: Мир порталов",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.PulseStudio.PULSESHIFT",
+      "checkedAt": "2026-10-07",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2026/9/19/42/apk/2063759157/content/SCREENSHOT/2b5b92a0-f150-4b4c-862b-8967c7c5a552.png",
+          "path": "/rustore/pulse-shift/1.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/19/ec/apk/2063759157/content/SCREENSHOT/16598246-ba56-431e-863e-9cf7925a1163.png",
+          "path": "/rustore/pulse-shift/2.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/19/6e/apk/2063759157/content/SCREENSHOT/a810b11a-5499-4fce-8dc0-16d70d2fbaf6.png",
+          "path": "/rustore/pulse-shift/3.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/19/5e/apk/2063759157/content/SCREENSHOT/916917f8-e413-4bb4-898b-c920dedbe14f.png",
+          "path": "/rustore/pulse-shift/4.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/19/2f/apk/2063759157/content/SCREENSHOT/4f3cb8d7-d61f-4907-bded-c3d174a46a71.png",
+          "path": "/rustore/pulse-shift/5.webp",
+          "width": 941,
+          "height": 1672
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2026/9/19/80/apk/2063759157/content/ICON/bb29882e-b534-4551-b6e3-c68babd6b505.jpg",
+        "path": "/rustore/pulse-shift/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.fizbit.g2048": {
+      "id": "2048",
+      "packageName": "com.fizbit.g2048",
+      "title": "2048 Логическая головоломка",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.fizbit.g2048",
+      "checkedAt": "2026-10-07T17:05:47.096Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/apk/2063637318/content/SCREENSHOT/64ca455a-9bf2-451a-b532-44854d0a67b3.png",
+          "path": "/rustore/2048/1.webp",
+          "width": 614,
+          "height": 1132
+        },
+        {
+          "source": "https://static.rustore.ru/apk/2063637318/content/SCREENSHOT/8fe398de-2447-431a-8b03-60aa2ae16f6e.png",
+          "path": "/rustore/2048/2.webp",
+          "width": 614,
+          "height": 1132
+        },
+        {
+          "source": "https://static.rustore.ru/apk/2063637318/content/SCREENSHOT/a645d0c0-0a89-429e-8902-a3a49f4dbe91.png",
+          "path": "/rustore/2048/3.webp",
+          "width": 614,
+          "height": 1132
+        },
+        {
+          "source": "https://static.rustore.ru/apk/2063637318/content/SCREENSHOT/73b05369-ba21-4078-97e4-132c278a89f6.png",
+          "path": "/rustore/2048/4.webp",
+          "width": 614,
+          "height": 1132
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/apk/2063637318/content/ICON/e8b39353-4024-4470-b1c7-adc71e81fd01.jpg",
+        "path": "/rustore/2048/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.codeafm.crowdclash": {
+      "id": "crowd-clash",
+      "packageName": "com.codeafm.crowdclash",
+      "title": "Crowd Clash 3D: Битва отрядов",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.crowdclash",
+      "checkedAt": "2026-10-07",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2026/9/21/ce/apk/2063759816/content/SCREENSHOT/41097e24-8ba0-44c2-8eba-80cfa9043148.png",
+          "path": "/rustore/crowd-clash/1.webp",
+          "width": 940,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/21/1b/apk/2063759816/content/SCREENSHOT/15a5feaa-1b52-4fc4-bf2b-133676a16d0f.png",
+          "path": "/rustore/crowd-clash/2.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/21/c5/apk/2063759816/content/SCREENSHOT/112248f2-9f46-4bda-82dc-e1e9c8ca1380.png",
+          "path": "/rustore/crowd-clash/3.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/21/64/apk/2063759816/content/SCREENSHOT/cbd2eca3-864c-44ed-8651-29a669074db4.png",
+          "path": "/rustore/crowd-clash/4.webp",
+          "width": 941,
+          "height": 1672
+        },
+        {
+          "source": "https://static.rustore.ru/2026/9/21/78/apk/2063759816/content/SCREENSHOT/2eb20a86-c71a-49e0-9ba9-683ca5c04c44.png",
+          "path": "/rustore/crowd-clash/5.webp",
+          "width": 941,
+          "height": 1672
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2026/9/21/zz/apk/2063759816/content/ICON/0dc2e21f-af20-4567-93dd-d35094e35241.jpg",
+        "path": "/rustore/crowd-clash/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.codeafm.pdfscanner": {
+      "id": "pdf-scanner",
+      "packageName": "com.codeafm.pdfscanner",
+      "title": "PDF Scanner -Document",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.pdfscanner",
+      "checkedAt": "2026-10-07T17:05:48.459Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2026/3/10/30/apk/2063699838/content/SCREENSHOT/de1b3814-842b-4ba2-ac04-89b04f43ae8e.jpg",
+          "path": "/rustore/pdf-scanner/1.webp",
+          "width": 768,
+          "height": 1366
+        },
+        {
+          "source": "https://static.rustore.ru/2026/3/10/e2/apk/2063699838/content/SCREENSHOT/40a42671-fb65-4c53-b8ce-56a365787fa8.png",
+          "path": "/rustore/pdf-scanner/2.webp",
+          "width": 768,
+          "height": 1366
+        },
+        {
+          "source": "https://static.rustore.ru/2026/3/10/76/apk/2063699838/content/SCREENSHOT/37509ff5-9da9-41e1-a847-5e6cab4dfded.jpg",
+          "path": "/rustore/pdf-scanner/3.webp",
+          "width": 768,
+          "height": 1366
+        },
+        {
+          "source": "https://static.rustore.ru/2026/3/10/4c/apk/2063699838/content/SCREENSHOT/7c39dc19-de2f-4ebd-a99d-ecd45be247c2.jpg",
+          "path": "/rustore/pdf-scanner/4.webp",
+          "width": 768,
+          "height": 1366
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2026/3/10/b0/apk/2063699838/content/ICON/85be1f7d-b2d4-4802-8a82-97ed865c19a5.png",
+        "path": "/rustore/pdf-scanner/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.codeafm.shadowpair": {
+      "id": "shadow-pair",
+      "packageName": "com.codeafm.shadowpair",
+      "title": "Shadow Pair Игра Головоломка",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.shadowpair",
+      "checkedAt": "2026-10-07T17:05:49.440Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2025/11/11/c6/apk/2063670350/content/SCREENSHOT/902850c0-9ca7-4f19-9f51-c9902e895fe9.png",
+          "path": "/rustore/shadow-pair/1.webp",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "source": "https://static.rustore.ru/2025/11/11/e4/apk/2063670350/content/SCREENSHOT/22df67a6-ca8f-4703-bf38-26c5a63e164a.png",
+          "path": "/rustore/shadow-pair/2.webp",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "source": "https://static.rustore.ru/2025/11/11/7b/apk/2063670350/content/SCREENSHOT/db4abbde-0c82-434e-aac4-c1fd6d1043e5.png",
+          "path": "/rustore/shadow-pair/3.webp",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "source": "https://static.rustore.ru/2025/11/11/9b/apk/2063670350/content/SCREENSHOT/9c09f39c-923b-480e-92df-65627144c79e.png",
+          "path": "/rustore/shadow-pair/4.webp",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2025/11/11/c4/apk/2063670350/content/ICON/8765ba4e-ad86-4bd1-8f3d-aeafd1771769.png",
+        "path": "/rustore/shadow-pair/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "codeafm.com": {
+      "id": "true-or-false",
+      "packageName": "codeafm.com",
+      "title": "Правда или Ложь | True or False 2023",
+      "storeUrl": "https://www.rustore.ru/catalog/app/codeafm.com",
+      "checkedAt": "2026-10-07T17:05:50.225Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/apk/2063507865/content/SCREENSHOT/0f473513-b9fc-42fb-9713-83da160951e7.jpg",
+          "path": "/rustore/true-or-false/1.webp",
+          "width": 1030,
+          "height": 1800
+        },
+        {
+          "source": "https://static.rustore.ru/apk/2063507865/content/SCREENSHOT/41c51d4f-b62d-4ec8-aab6-e481c9b52fdb.jpg",
+          "path": "/rustore/true-or-false/2.webp",
+          "width": 1030,
+          "height": 1800
+        },
+        {
+          "source": "https://static.rustore.ru/apk/2063507865/content/SCREENSHOT/a8e20d8f-48b7-4b56-bfeb-726f18ac8f99.jpg",
+          "path": "/rustore/true-or-false/3.webp",
+          "width": 1030,
+          "height": 1800
+        },
+        {
+          "source": "https://static.rustore.ru/apk/2063507865/content/SCREENSHOT/07b6d61a-3ce6-4f45-a6aa-47eab5b1f6b5.jpg",
+          "path": "/rustore/true-or-false/4.webp",
+          "width": 1030,
+          "height": 1800
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/apk/2063507865/content/ICON/40dd7780-f4ad-48d4-bb7e-ecf6089dc942.jpg",
+        "path": "/rustore/true-or-false/icon.webp",
+        "width": 640,
+        "height": 640
+      }
+    },
+    "com.codeafm.rushgeo": {
+      "id": "geometry-rush",
+      "packageName": "com.codeafm.rushgeo",
+      "title": "Rush Geomatry Dash",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.rushgeo",
+      "checkedAt": "2026-10-07T17:05:51.084Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2025/10/19/74/apk/2063665191/content/SCREENSHOT/60d2731e-28af-41c5-a349-3160beae011d.jpg",
+          "path": "/rustore/geometry-rush/1.webp",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "source": "https://static.rustore.ru/2025/10/19/5c/apk/2063665191/content/SCREENSHOT/3d5d8ec2-8286-4c64-b7d3-73a8ba0b7358.jpg",
+          "path": "/rustore/geometry-rush/2.webp",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "source": "https://static.rustore.ru/2025/10/19/db/apk/2063665191/content/SCREENSHOT/15b91b27-70d9-4534-9f3e-2f57cebef2c7.jpg",
+          "path": "/rustore/geometry-rush/3.webp",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "source": "https://static.rustore.ru/2025/10/19/cd/apk/2063665191/content/SCREENSHOT/7f98ef9c-57ed-49a4-b331-1e8d5fd0dbf9.jpg",
+          "path": "/rustore/geometry-rush/4.webp",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/2025/10/19/5c/apk/2063665191/content/ICON/e13a2218-7166-405f-8d96-8ea7f3f0a7cd.jpg",
+        "path": "/rustore/geometry-rush/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "com.fizbit.dotisdead": {
+      "id": "dot-is-dead",
+      "packageName": "com.fizbit.dotisdead",
+      "title": "Dot is Dead — Побег от ловушек начинается!",
+      "storeUrl": "https://www.rustore.ru/catalog/app/com.fizbit.dotisdead",
+      "checkedAt": "2026-10-07T17:05:52.074Z",
+      "screenshots": [
+        {
+          "source": "https://static.rustore.ru/2025/11/8/fb/apk/2063638870/content/SCREENSHOT/23f1a824-2417-4d95-bf39-13358c41fefc.png",
+          "path": "/rustore/dot-is-dead/1.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2025/11/8/b3/apk/2063638870/content/SCREENSHOT/34e87c31-5e39-4c78-817d-ce734f1067ff.png",
+          "path": "/rustore/dot-is-dead/2.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2025/11/8/e8/apk/2063638870/content/SCREENSHOT/9cab7bac-9754-42aa-ba5e-dd2c49dc5f88.png",
+          "path": "/rustore/dot-is-dead/3.webp",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "source": "https://static.rustore.ru/2025/11/8/0a/apk/2063638870/content/SCREENSHOT/d80267da-7107-47ca-8194-bf408461e009.png",
+          "path": "/rustore/dot-is-dead/4.webp",
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "icon": {
+        "source": "https://static.rustore.ru/apk/2063638870/content/ICON/48b8437d-0823-4c7b-ac91-35c82b0ca344.png",
+        "path": "/rustore/dot-is-dead/icon.webp",
+        "width": 512,
+        "height": 512
+      }
+    }
+  }
+}

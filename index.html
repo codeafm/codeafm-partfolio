@@ -1,34 +1,21 @@
 <!doctype html>
-<html lang="en">
+<html lang="ru">
   <head>
     <meta charset="UTF-8" />
-    <!-- Favicon / аватар -->
-    <link rel="icon" type="image/png" sizes="32x32" href="/icons/avatar-32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/icons/avatar-16.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/icons/avatar-180.png">
-    <link rel="mask-icon" href="/icons/avatar.svg" color="#10b981">
-    <meta name="theme-color" content="#0a0a0a">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>CodeAFM</title>
-
-    <!-- VK Ads (myTarget) -->
-    <script async src="https://ad.mail.ru/static/ads-async.js"></script>
+    <meta name="theme-color" content="#7137ff" />
+    <link rel="icon" type="image/svg+xml" href="/brand-mark.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!--seo:start-->
+    <title>CodeAFM — разработка сайтов и приложений Android и iOS</title>
+    <meta name="description" content="Разработка сайтов, мобильных приложений для Android и iOS и игр на заказ. CodeAFM: дизайн, программирование, запуск и поддержка." />
+    <!--seo:end-->
   </head>
   <body>
-    <!-- React контейнер -->
-    <div id="root"></div>
-
-    <!-- Твой основной скрипт -->
+    <div id="root"><!--app-html--></div>
     <script type="module" src="/src/main.jsx"></script>
-
-    <!-- Hero чуть компактнее -->
-    <style>
-      .hero.glow::before {
-        inset: -30%;       /* уменьшаем ореол */
-        filter: blur(8px);
-        opacity: .75;
-      }
-    </style>
   </body>
 </html>

@@ -1,0 +1,70 @@
+.service-illustration {
+  position: relative;
+  flex: 0 0 140px;
+  height: 140px;
+  width: 100%;
+  margin: -8px 0 23px;
+  overflow: hidden;
+  border: 1px solid #eee7f5;
+  border-radius: 11px;
+  background: radial-gradient(ellipse at 51% 68%, #eae0f975, transparent 71%), linear-gradient(145deg, #fff, #f8f4fd);
+  isolation: isolate;
+}
+
+.service-illustration::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background-image: linear-gradient(#c4b3d70b 1px, transparent 1px), linear-gradient(90deg, #c4b3d70b 1px, transparent 1px);
+  background-size: 20px 20px;
+  mask-image: radial-gradient(ellipse at center, #000 20%, transparent 76%);
+}
+
+.service-illustration > svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.si-object,
+.si-cursor,
+.si-spark {
+  transform-box: fill-box;
+  transform-origin: center;
+  transition: transform .55s cubic-bezier(.2, .75, .3, 1);
+}
+
+.si-object--browser { transform: translateY(-3px) rotate(-5deg); }
+.si-object--phone-back { transform: translate(-7px, -6px) rotate(-11deg); }
+.si-object--phone-front { transform: translate(5px, -1px) rotate(8deg); }
+.si-object--board { transform: translateY(-2px) rotate(7deg); }
+.si-object--puzzle { transform: translate(16px, -1px) rotate(-11deg) scale(.86); }
+.si-object--float { transform: rotate(7deg); }
+.si-object--badge { transform: rotate(-10deg); }
+.si-cursor { transform: translate(7px, -1px) rotate(-5deg); }
+
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .service-card:hover .si-object--browser { transform: translate(0, -7px) rotate(-3deg); }
+  .service-card:hover .si-object--phone-back { transform: translate(-12px, -9px) rotate(-13deg); }
+  .service-card:hover .si-object--phone-front { transform: translate(9px, -5px) rotate(6deg); }
+  .service-card:hover .si-object--board { transform: translateY(-5px) rotate(3deg); }
+  .service-card:hover .si-object--puzzle { transform: translate(10px, -7px) rotate(-5deg) scale(.86); }
+  .service-card:hover .si-object--float { transform: translate(2px, -7px) rotate(1deg); }
+  .service-card:hover .si-object--badge { transform: translate(-3px, -5px) rotate(-4deg); }
+  .service-card:hover .si-cursor { transform: translate(15px, -7px) rotate(-5deg); }
+  .service-card:hover .si-spark { transform: rotate(22deg) scale(1.1); }
+}
+
+@media (max-width: 1100px) and (min-width: 761px) {
+  .service-illustration { margin-inline: -4px; width: calc(100% + 8px); }
+}
+
+@media (max-width: 760px) {
+  .service-illustration { margin-top: -5px; margin-bottom: 23px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .service-illustration * { transition: none; }
+}
