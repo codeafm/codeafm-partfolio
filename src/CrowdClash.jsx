@@ -1,3 +1,4 @@
+import { projects } from './data/projects';
 import { useEffect } from "react";
 
 const SUPPORT_EMAIL = "codeafm@gmail.com";
@@ -15,7 +16,7 @@ function CrowdClashPage({ title, children }) {
         <a className="back-link" href="/">← Back to CodeAFM</a>
         <header className="legal-header">
           <img
-            src={`${import.meta.env.BASE_URL}icons/crowd-clash.jpg`}
+            src={projects.find(project => project.id === "crowd-clash").icon}
             alt="Crowd Clash"
             className="legal-app-icon"
             width="74"

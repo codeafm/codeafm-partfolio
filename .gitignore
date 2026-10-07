@@ -6,3 +6,5 @@ dist/
 public/downloads/
 *.apk
 .npm-cache/
+
+.tmp/

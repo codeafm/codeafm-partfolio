@@ -1,5 +1,10 @@
 {
-  "rewrites": [
-    { "source": "/((?!app-ads\\.txt$|downloads|assets|icons|favicon\\.ico|vite\\.svg).*)", "destination": "/" }
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/privacy", "destination": "/bottle-sort/privacy", "permanent": true },
+    { "source": "/support", "destination": "/bottle-sort/support", "permanent": true }
   ]
 }
