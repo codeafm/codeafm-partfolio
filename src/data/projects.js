@@ -275,6 +275,8 @@ export const projects = [
     "packageName": "com.codeafm.bubblepop",
     "storeTitle": "Bubble Pop Original: Шарики",
     "storeUrl": "https://www.rustore.ru/catalog/app/com.codeafm.bubblepop",
+    "support": "/bubble-pop/support",
+    "privacy": "/bubble-pop/privacy",
     "orientation": "portrait"
   },
   {
