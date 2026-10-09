@@ -205,3 +205,10 @@
 @media (prefers-reduced-motion: reduce) {
   .legal-page * { transition: none; }
 }
+
+.pull-rescue-page .legal-header > div { min-width: 0; }
+.pull-rescue-page .legal-header h1 { overflow-wrap: anywhere; }
+@media (max-width: 600px) {
+  .pull-rescue-page .legal-header { flex-direction: column; }
+  .pull-rescue-page .legal-header h1 { font-size: 30px; }
+}
