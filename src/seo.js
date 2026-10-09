@@ -4,6 +4,8 @@ import { site } from './data/site.js';
 
 export const aliases = { '/privacy': '/bottle-sort/privacy', '/support': '/bottle-sort/support' };
 const legalPages = [
+  { path: '/pull-rescue/privacy', title: 'Pull & Rescue 3D — Политика конфиденциальности | CodeAFM', description: 'Политика конфиденциальности Pull & Rescue 3D для Android и iOS: сохранение прогресса, реклама, настройки конфиденциальности и обращения в поддержку.', lang: 'ru' },
+  { path: '/pull-rescue/support', title: 'Pull & Rescue 3D — Поддержка игры | CodeAFM', description: 'Помощь с Pull & Rescue 3D: запуск игры, уровни, сохранение прогресса, звук, реклама и связь с разработчиком CodeAFM.', lang: 'ru' },
   { path: '/bottle-sort/privacy', title: 'Bottle Sort — Privacy Policy | CodeAFM', description: 'Privacy policy for Bottle Sort by CodeAFM. Learn how the app handles information, advertising, permissions and support requests.', lang: 'en' },
   { path: '/bottle-sort/support', title: 'Bottle Sort — Support | CodeAFM', description: 'Get help with Bottle Sort by CodeAFM. Find troubleshooting guidance and contact the developer about the puzzle game.', lang: 'en' },
   { path: '/crowd-clash/privacy', title: 'Crowd Clash — Privacy Policy | CodeAFM', description: 'Privacy policy for Crowd Clash by CodeAFM. Information about accounts, advertising, data handling and your privacy choices.', lang: 'en' },
