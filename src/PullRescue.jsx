@@ -3,7 +3,7 @@ import { pullRescuePrivacy } from './data/pullRescuePrivacy';
 import './legal.css';
 
 function PullRescuePage({ title, children }) {
-  return <main className="legal-page" lang="ru"><div className="legal-container">
+  return <main className="legal-page pull-rescue-page" lang="ru"><div className="legal-container">
     <a className="back-link" href="/">← На главную CodeAFM</a>
     <header className="legal-header">
       <img src="/icons/pull-rescue.png" alt="Pull & Rescue 3D" className="legal-app-icon" width="74" height="74" />
