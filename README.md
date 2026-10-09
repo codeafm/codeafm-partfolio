@@ -41,7 +41,7 @@ Contact settings are in `src/data/site.js`, `src/App.jsx` and `src/components/Pr
 
 Vercel builds with `npm run build` and serves `dist/` using `cleanUrls: true` and `trailingSlash: false`. Each extensionless path maps to its own generated HTML file. Do not restore a blanket SPA rewrite: nonexistent addresses must return a real 404 instead of the home page.
 
-Legacy `/privacy` and `/support` addresses permanently redirect to the corresponding Bottle Sort pages. Bubble Pop support and privacy pages are available at `/bubble-pop/support` and `/bubble-pop/privacy`, with the developer contact from `src/data/site.js`. Bottle Sort and Crowd Clash support/privacy content is retained; English legal pages have English document language and their own metadata. Existing `app-ads.txt` and other public files remain available.
+Legacy `/privacy` and `/support` addresses permanently redirect to the corresponding Bottle Sort pages. Bubble Pop support and privacy pages are available at `/bubble-pop/support` and `/bubble-pop/privacy`, with the developer contact from `src/data/site.js`. Pull & Rescue 3D support and privacy pages are available in Russian at `/pull-rescue/support` and `/pull-rescue/privacy`; the privacy text mirrors the bundled game policy dated October 8, 2026. Bottle Sort and Crowd Clash support/privacy content is retained; English legal pages have English document language and their own metadata. Existing `app-ads.txt` and other public files remain available.
 
 Vite's development/preview server is for local inspection and does not implement Vercel redirects or HTTP 404 behavior. Check those response codes on the deployed host.
 
