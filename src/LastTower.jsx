@@ -2,7 +2,7 @@ import { site } from './data/site';
 import './legal.css';
 
 function LastTowerPage({ title, children }) {
-  return <main className="legal-page" lang="ru"><div className="legal-container">
+  return <main className="legal-page last-tower-page" lang="ru"><div className="legal-container">
     <a className="back-link" href="/">← На главную CodeAFM</a>
     <header className="legal-header"><img src="/rustore/last-tower/icon.webp" alt="Последняя башня" className="legal-app-icon" width="74" height="74" /><div><p className="eyebrow">Last Tower · Последняя башня</p><h1>{title}</h1></div></header>
     {children}<footer className="legal-footer">© {new Date().getFullYear()} CodeAFM · Firuz Abdulhaqov</footer>
