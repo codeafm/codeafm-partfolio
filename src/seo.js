@@ -14,6 +14,8 @@ const legalPages = [
   { path: '/crowd-clash/support', title: 'Crowd Clash — Support | CodeAFM', description: 'Contact CodeAFM for Crowd Clash support. Troubleshoot the game, report a problem or send feedback to the developer.', lang: 'en' },
   { path: '/bubble-pop/privacy', title: 'Bubble Pop — Privacy Policy | CodeAFM', description: 'Privacy policy for Bubble Pop by CodeAFM: local progress, Yandex and Unity advertising, support requests and your privacy choices.', lang: 'en' },
   { path: '/bubble-pop/support', title: 'Bubble Pop — Support | CodeAFM', description: 'Get help with Bubble Pop on iPhone and Android. Contact CodeAFM about gameplay, saved progress, advertisements and technical problems.', lang: 'en' },
+  { path: '/panda-mahjong/privacy', title: 'Panda Mahjong — Privacy Policy | CodeAFM', description: 'Privacy policy for Panda Mahjong by CodeAFM: local progress, Unity and Yandex advertising, support requests and your privacy choices.', lang: 'en' },
+  { path: '/panda-mahjong/support', title: 'Panda Mahjong — Support | CodeAFM', description: 'Get help with Panda Mahjong on iPhone, iPad and Android. Contact CodeAFM about gameplay, saved progress, advertisements and technical problems.', lang: 'en' },
 ];
 export const projectPath = project => `/projects/${project.id}`;
 export function normalizePath(path = '/') {
