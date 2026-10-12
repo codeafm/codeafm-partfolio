@@ -4,6 +4,7 @@ import { projects } from './data/projects';
 import { BottleSortPrivacy, BottleSortSupport } from './BottleSort';
 import { CrowdClashPrivacy, CrowdClashSupport } from './CrowdClash';
 import { BubblePopPrivacy, BubblePopSupport } from './BubblePop';
+import { PandaMahjongPrivacy, PandaMahjongSupport } from './PandaMahjong';
 import { PullRescuePrivacy, PullRescueSupport } from './PullRescue';
 import ProjectRequest from './components/ProjectRequest';
 import ProductStage from './components/ProductStage';
@@ -172,7 +173,7 @@ function Contact({ onRequest }) {
 }
 
 function Footer() {
-  return <footer className="site-footer shell"><div className="footer-top"><div><Brand /><p>Создаём цифровое. Делаем по-человечески.</p></div><div className="footer-contact"><a href="mailto:codeafm@gmail.com">codeafm@gmail.com <Icon name="diagonal" size={18} /></a><a href={TELEGRAM} target="_blank" rel="noreferrer">Telegram <Icon name="diagonal" size={16} /></a></div></div><nav className="footer-services" aria-label="Услуги CodeAFM"><a href="/projects">Все проекты</a><a href="/services/web-development">Разработка сайтов</a><a href="/services/mobile-development">Приложения Android и iOS</a><a href="/services/game-development">Разработка игр</a></nav><div className="footer-bottom"><span>© {new Date().getFullYear()} CodeAFM</span><nav aria-label="Поддержка приложений"><a href="/bottle-sort/support">Bottle Sort · Поддержка</a><a href="/crowd-clash/support">Crowd Clash · Поддержка</a><a href="/bubble-pop/support">Bubble Pop · Поддержка</a><a href="/pull-rescue/support">Pull &amp; Rescue · Поддержка</a><a href="/last-tower/support">Last Tower · Поддержка</a></nav><a href="#top">Наверх ↑</a></div><div className="footer-signature" aria-hidden="true"><img src="/brand-mark.svg" alt="" /><span>codeafm<span>.</span></span></div></footer>;
+  return <footer className="site-footer shell"><div className="footer-top"><div><Brand /><p>Создаём цифровое. Делаем по-человечески.</p></div><div className="footer-contact"><a href="mailto:codeafm@gmail.com">codeafm@gmail.com <Icon name="diagonal" size={18} /></a><a href={TELEGRAM} target="_blank" rel="noreferrer">Telegram <Icon name="diagonal" size={16} /></a></div></div><nav className="footer-services" aria-label="Услуги CodeAFM"><a href="/projects">Все проекты</a><a href="/services/web-development">Разработка сайтов</a><a href="/services/mobile-development">Приложения Android и iOS</a><a href="/services/game-development">Разработка игр</a></nav><div className="footer-bottom"><span>© {new Date().getFullYear()} CodeAFM</span><nav aria-label="Поддержка приложений"><a href="/bottle-sort/support">Bottle Sort · Поддержка</a><a href="/crowd-clash/support">Crowd Clash · Поддержка</a><a href="/bubble-pop/support">Bubble Pop · Поддержка</a><a href="/panda-mahjong/support">Panda Mahjong · Поддержка</a><a href="/pull-rescue/support">Pull &amp; Rescue · Поддержка</a><a href="/last-tower/support">Last Tower · Поддержка</a></nav><a href="#top">Наверх ↑</a></div><div className="footer-signature" aria-hidden="true"><img src="/brand-mark.svg" alt="" /><span>codeafm<span>.</span></span></div></footer>;
 }
 
 function Home() {
@@ -198,6 +199,8 @@ export default function App({ pathname = '/' }) {
   if (path === '/crowd-clash/support') return <CrowdClashSupport />;
   if (path === '/bubble-pop/privacy') return <BubblePopPrivacy />;
   if (path === '/bubble-pop/support') return <BubblePopSupport />;
+  if (path === '/panda-mahjong/privacy') return <PandaMahjongPrivacy />;
+  if (path === '/panda-mahjong/support') return <PandaMahjongSupport />;
   if (path === '/pull-rescue/privacy') return <PullRescuePrivacy />;
   if (path === '/pull-rescue/support') return <PullRescueSupport />;
   if (path === '/last-tower/privacy') return <LastTowerPrivacy />;
