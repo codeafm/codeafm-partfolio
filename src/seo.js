@@ -16,6 +16,8 @@ const legalPages = [
   { path: '/bubble-pop/support', title: 'Bubble Pop — Support | CodeAFM', description: 'Get help with Bubble Pop on iPhone and Android. Contact CodeAFM about gameplay, saved progress, advertisements and technical problems.', lang: 'en' },
   { path: '/panda-mahjong/privacy', title: 'Panda Mahjong — Privacy Policy | CodeAFM', description: 'Privacy policy for Panda Mahjong by CodeAFM: local progress, Unity and Yandex advertising, support requests and your privacy choices.', lang: 'en' },
   { path: '/panda-mahjong/support', title: 'Panda Mahjong — Support | CodeAFM', description: 'Get help with Panda Mahjong on iPhone, iPad and Android. Contact CodeAFM about gameplay, saved progress, advertisements and technical problems.', lang: 'en' },
+  { path: '/merge-market/privacy', title: 'Merge Market — Политика конфиденциальности | CodeAFM', description: 'Политика конфиденциальности Merge Market для Android и iOS: прогресс на устройстве, аналитика Firebase, уведомления, реклама Яндекса и ваши права.', lang: 'ru' },
+  { path: '/merge-market/support', title: 'Merge Market — Поддержка игры | CodeAFM', description: 'Помощь с Merge Market: запуск игры, прогресс, уведомления, реклама и связь с разработчиком CodeAFM.', lang: 'ru' },
 ];
 export const projectPath = project => `/projects/${project.id}`;
 export function normalizePath(path = '/') {
